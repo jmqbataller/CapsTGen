@@ -15,7 +15,8 @@ h1 {
     font-size: 2em;
     font-weight: 600;
     margin-bottom: 20px;
-    color: #61dafb; /* Teal accent color */
+    color: #61dafb; 
+    text-align: center;
 }
 
 #capstone-display {
