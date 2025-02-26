@@ -1,5 +1,5 @@
 [build]
-  publish = "public"  # Or "." if index.php is in the root
+  publish = "."  #  Crucially, this is "." because index.php is in the root
   command = ""
 
 [[redirects]]
