@@ -1,8 +1,0 @@
-[build]
-  publish = "."  #  <--  Dot "." is CORRECT for the root directory
-  command = ""
-
-[[redirects]]
-  from = "/*"
-  to = "/index.php"
-  status = 200
