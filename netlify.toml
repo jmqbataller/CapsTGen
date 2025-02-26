@@ -1,8 +1,0 @@
-[build]
-  publish = "."  #  Crucially, this is "." because index.php is in the root
-  command = ""
-
-[[redirects]]
-  from = "/*"
-  to = "/index.php"
-  status = 200
